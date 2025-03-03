@@ -1,11 +1,15 @@
-Hi, I am Andrew!
-Freshman at the University of Central Florida
+# Hi, I'm Andrew! 👋  
 
-Auth:
-Lucia
+🎓 Freshman at the University of Central Florida  
+💻 Passionate about Information Technology & Cybersecurity  
 
-Frontend:
-HTML, CSS, Typescript, React, Tailwind CSS
+### 🌐 Frontend  
+- HTML, CSS, TypeScript  
+- React, Tailwind CSS  
 
-Fullstack:
-Next.js
+### ⚡ Fullstack  
+- Next.js  
+
+### 📚 Learning  
+- Java, Python, C, Linux  
+- Preparing for various CompTIA certifications  
