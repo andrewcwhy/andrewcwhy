@@ -5,11 +5,10 @@
 
 ### 🌐 Frontend  
 - HTML, CSS, TypeScript  
-- React, Tailwind CSS  
+- React, Vite, Tailwind CSS  
 
 ### ⚡ Fullstack  
 - Next.js  
 
 ### 📚 Learning  
-- Java, Python, C, Linux  
-- Preparing for various CompTIA certifications  
+- Java, Python, C
