@@ -11,4 +11,4 @@
 - Next.js  
 
 ### 📚 Learning  
-- JavaScript, Python, C
+- Python and C
