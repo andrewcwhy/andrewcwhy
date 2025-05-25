@@ -5,10 +5,10 @@
 
 ### 🌐 Frontend  
 - HTML, CSS, TypeScript  
-- React, Vite, Tailwind CSS  
+- React, Tailwind CSS  
 
-### ⚡ Fullstack  
-- Next.js  
-
-### 📚 Learning  
-- Python and C
+### 📚 Learning
+- C
+- JavaScript
+- Rust
+- Solid
