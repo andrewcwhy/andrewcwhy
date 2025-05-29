@@ -4,11 +4,8 @@
 💻 Passionate about Cybersecurity, Computer Science, and Web Development.  
 
 ### 🌐 Frontend  
-- HTML, CSS, TypeScript  
-- React, Tailwind CSS  
+- TypeScript
 
 ### 📚 Learning
 - C
-- JavaScript
-- Rust
-- Solid
+- Zig
