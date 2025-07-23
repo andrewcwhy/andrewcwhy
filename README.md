@@ -8,5 +8,6 @@
 ## 📚 Learning
 - C
 - JavaScript
+- Linux
 - Rust
 - Zig
