@@ -4,9 +4,9 @@
 ---
 
 ## 👋 About Me
-I'm Andrew!
-I'm a freshman IT major at the University of Central Florida.
-I'm building [Janustack](https://github.com/janustack) — an organization focused on creating developer tools.
+- I'm Andrew!
+- I'm a freshman IT major at the University of Central Florida.
+- I'm building [Janustack](https://github.com/janustack) — an organization focused on creating developer tools.
 
 ---
 
@@ -38,4 +38,4 @@ If it’s fast, safe, and clean, I’m into it. These are the tools that I get h
 
 ---
 
-> Be [**ACY**](#andrew-christian-young)
+> Be [**A.C.Y.**](#andrew-christian-young)
