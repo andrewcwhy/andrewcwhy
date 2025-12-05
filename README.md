@@ -17,14 +17,13 @@ The Three I Am’s
 
 - Cybersecurity
 - Linux system administration and server management
-- Systems programming and operating systems
-- Web development (frontend)
-
+- Systems programming
+- Web development
 ---
 
 ## 🔍 Currently Exploring
 
-- C
+- Kotlin
 - Linux
 - Zig
 
