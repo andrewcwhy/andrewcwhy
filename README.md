@@ -1,5 +1,4 @@
 # Andrew Christian Young
-> **A**lways Curious. **C**onstantly Querying. **Y**ielding Insight. 
 
 ---
 
@@ -9,7 +8,7 @@ The Three I Am’s
 
 - I'm Andrew!
 - I'm a IT major at the University of Central Florida.
-- I'm building [Janustack](https://github.com/janustack) — an organization focused on creating developer tools.
+- I'm building [Janustack](https://github.com/janustack) — an organization focused on creating developer tools in TypeScript and Zig
 
 ---
 
@@ -23,8 +22,8 @@ The Three I Am’s
 
 ## 🔍 Currently Exploring
 
-- Kotlin
 - Linux
+- JavaScript
 - Zig
 
 ---
@@ -45,4 +44,4 @@ If it’s fast, safe, and clean, I’m into it. These are the tools that I get h
 
 ---
 
-> Be [A.C.Y.](#andrew-christian-young) | Visit my site: [andrewcwhy.me](https://andrewcwhy.me)
+> Visit my site: [andrewcwhy.me](https://andrewcwhy.me)
